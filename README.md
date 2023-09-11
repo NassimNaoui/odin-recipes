@@ -7,8 +7,8 @@ Les compétences HTML nécessaires pour ce projet sont :
 - Les éléments et les tags
 - Les listes
 - Les liens et images
-en :
 
+en :
 I've taken all of the introductory HTML and git courses. This project intervenes to put into practice the skills seen in the courses. The "recipes" project is simply the first site that I have to create, in which I have to list 3 cooking recipes of my choice. In love with Japanese cuisine, I therefore added typical dishes of Japanese cuisine. With 2 dishes and a dessert.
 The HTML skills needed for this project are:
 - Elements and tags
