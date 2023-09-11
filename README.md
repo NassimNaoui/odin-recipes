@@ -1,5 +1,6 @@
 # odin-recipes
 The Odin Project - 1st project
+
 fr :
 J'ai suivi tous les cours d'introduction à HTML et git. Ce projet intervient pour mettre en pratique les compétences vues dans les cours. Le projet "recettes" est tout simplement un premier site que je dois créer, dans lequel il faut répertorier 3 recettes de cuisine au choix. Amoureux de la cusine japonaise, j'y ai donc ajouté des plats typiques de la cuisine japonaise. Avec 2 plats et un déssert. 
 Les compétences HTML nécessaires pour ce projet sont : 
